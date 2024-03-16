@@ -451,3 +451,5 @@ db.users.find({
 
     // Obtener a todos los usuarios que sean de Australia y tengan un peso mayor a 140 libras.
     
+
+show collections
